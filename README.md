@@ -1,2 +1,2 @@
 # Sentinel AI
-# Architecture
+
